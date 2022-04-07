@@ -1,1 +1,19 @@
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+atalhos importantes:
+
+Ctrl + L | limpar a tela
+git clone + link do respositório | clona um diretório remoto para a minha pasta
+ls | listar pastas do diretório
+git status | visualizar o status dos arquivos/diretórios
+cd | navega pela pasta
+cd + .. | voltar para a pasta anterior
+mkdir + nome da pasta | adiciona uma nova pasta 
+git add + nomedoarquivo.formato | adicionar um arquivo
+
+passo a passo to commit
+
+git status | visualizar o status dos arquivos/diretórios
+git add -a ou . | adiciona os arquivos
+git commit -m + "mensagem" | commita com comentário
+git push origin main | envia os commits locais para nuvem
